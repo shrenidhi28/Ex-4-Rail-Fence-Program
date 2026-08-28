@@ -1,5 +1,7 @@
 # Ex-4 Rail-Fence-Program
-
+## Name: Shrenidhi
+## Reg No: 212223040196
+## Dept: CSE
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
 # AIM:
