@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# Ex-5 Rail-Fence-Program
 ## Name: Shrenidhi
 ## Reg No: 212223040196
 ## Dept: CSE
